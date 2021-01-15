@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel melihyesilyurt\historical\models\SavaslarSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Savaslars';
+$this->title = 'Savaslar';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="savaslar-index">
