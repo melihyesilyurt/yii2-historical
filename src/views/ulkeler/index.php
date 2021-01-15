@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel melihyesilyurt\historical\models\UlkelerSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Ulkelers';
+$this->title = 'Ulkeler';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="ulkeler-index">
