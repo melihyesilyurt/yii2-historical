@@ -1,0 +1,36 @@
+{
+  "name": "melihyesilyurt/yii2-historical",
+  "description": "Historical Module",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "melihyesilyurt",
+      "email": "180202060@kocaeli.edu.tr",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0.13"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "8.*.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "melihyesilyurt\\historical\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "melihyesilyurt\\historical\\tests\\": "tests"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
