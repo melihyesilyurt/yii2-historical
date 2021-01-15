@@ -11,7 +11,7 @@ Bu işleri tamamladıktan sonra modülü çalıştırabilmek için son 1 aşama 
                                                                    ],
 eklenmelidir. Modül artık çalışmaktadır.
 
-#Modül-özeti
+# Modül Özeti
 Modülümüzdeki migration 2 tablo içermektedir. Bu tablolardan biri Savaşlar hakkında bilgi içermektedir. Diğeri ise ülkeler hakkında bilgi içermektedir.
 2 tablo arasındaki ilişki için 1 foreign key kullanmış bulunmaktayım.
 Database de bulunan  tabloların yapıların daha net açıklanması için aşağıdaki fotoğrafları eklemiş bulunmaktayım;
