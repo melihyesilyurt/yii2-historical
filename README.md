@@ -17,3 +17,7 @@ Modülümüzdeki migration 2 tablo içermektedir. Bu tablolardan biri Savaşlar 
 Database de bulunan  tabloların yapıların daha net açıklanması için aşağıdaki fotoğrafları eklemiş bulunmaktayım;
 <img src="https://github.com/melihyesilyurt/yii2-historical/blob/main/photos/savaslardb.png?raw=true" />
 <img src="https://github.com/melihyesilyurt/yii2-historical/blob/main/photos/ulkelerdb.png?raw=true" />
+
+
+Derslerde öğrenmiş olduğum html ile geliştiriğim modül ana sayfamda ise 2 farklı buton bulunmaktadır. Bu butonlara tıklandığında ise içinde yönlendirdiğim indexlere gitmektedir.
+<img src="https://github.com/melihyesilyurt/yii2-historical/blob/main/photos/index.png?raw=true" />
