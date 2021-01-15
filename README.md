@@ -1,5 +1,5 @@
 # yii2-historical
-Historical Module
+İnternet programcılığı dersi için yapılmış olan, tarihi savaşları ve savaşan ülkeleri database de tutan bir modül. 
 
 # Kurulum
 Modülü kurabilmek için öncelikle yii2 advanced projesini kurmanız gerekmektedir.
