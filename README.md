@@ -21,7 +21,7 @@ Database de bulunan  tabloların yapıların daha net açıklanması için aşa�
 
 Derslerde öğrenmiş olduğum html ile geliştiriğim modül ana sayfamda ise 2 farklı buton bulunmaktadır. Bu butonlara tıklandığında ise içinde yönlendirdiğim indexlere gitmektedir.
 Ana sayfaya gitmek için bu linki kullanmak yeterlidir: "http://advanced/backend/web/index.php?r=historical/default/index"
-<img src="https://github.com/melihyesilyurt/yii2-historical/blob/main/photos/savaslarindex.png?raw=true" />
+<img src="https://github.com/melihyesilyurt/yii2-historical/blob/main/photos/index.png" />
 
 Ana sayfadan yönlendirdiğim sayfaları ise gii ile oluşturup ekstra düzenlemeler yapmıştım. Bu sayfalarda ise database'e veri ekleyip çıkarma özellikleri yapılabilmekte, ayrıca istenilen verinin arama işlemleri yapılabilmektedir. 
 
