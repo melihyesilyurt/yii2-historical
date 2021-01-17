@@ -18,9 +18,12 @@ php yii migrate/up --migrationPath=@vendor/melihyesilyurt/yii2-historical/src/mi
 yazmanız yeterlidir.
 Bu işleri tamamladıktan sonra modülü çalıştırabilmek için son 1 aşama gerekiyor. Bu aşama ise modül nerede çalıştırılacak ise (Backend veya Frontend) onun içinde bulunan config dosyasının içindeki main.php deki modules kısmına  
 ```
-'historical' => [
+'modules' => [
+    ...
+   'historical' => [
                   'class' => 'melihyesilyurt\historical\Module',
                 ],
+],
  ```
 eklenmelidir. Modül artık çalışmaktadır.
 
