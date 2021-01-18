@@ -6,7 +6,7 @@ Modülü kurabilmek için öncelikle yii2 advanced projesini kurmanız gerekmekt
 Proje kurulu ise terminale
 
 ```
-composer require melihyesilyurt/yii2-historical
+composer require melihyesilyurt/yii2-historical "dev-master"
  ```
 
 bu kodu yazmanız gerekmektedir.
